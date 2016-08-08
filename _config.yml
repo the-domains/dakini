@@ -1,4 +1,3 @@
-layout_spectrum: 0.6984953219071031
 typography_spectrum: 0.8055185794364661
 color:
   brandStrength: 0.564055027673021
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.6984953219071031
 name: Dakini
 title: Horster IT
+description: A Horster-company
